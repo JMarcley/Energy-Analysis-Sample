@@ -1,8 +1,8 @@
 #LBNL-Project
 
 ###A sample project including:
-* Creating SQLite3 db from csv file
-* formatting raw data and updating db
+* Creating SQLite3 db from csv file (info below)
+* Formatting raw data and updating db
 * Querying db for particular data of interest
 * Manipulating data to retrieve usable information
 * Creating plots using Plotly tools
