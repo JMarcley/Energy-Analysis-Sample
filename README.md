@@ -1,6 +1,7 @@
 #LBNL-Project
 
 ###A sample project including:
+* Querying CAISO data using pyiso API
 * Creating SQLite3 db from csv file (info below)
 * Formatting raw data and updating db
 * Querying db for particular data of interest
@@ -8,6 +9,8 @@
 * Creating plots using Plotly tools
 
 ##Charts created
+![alt text](https://github.com/JMarcley/LBNL-Project/blob/master/CAISO Generation Winter.png "Count-By-Type-bar-chart")
+
 ![alt text](https://github.com/JMarcley/LBNL-Project/blob/master/Count-By-Type-bar-chart.png "Count-By-Type-bar-chart")
 
 ![alt text](https://github.com/JMarcley/LBNL-Project/blob/master/Avg-Cap-By-Type-bar-chart.png "Avg-Cap-By-Type-bar-chart")
